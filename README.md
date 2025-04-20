@@ -2,6 +2,8 @@
 
 This project implements a **Quantum Generative Adversarial Network (QGAN)** using [Qiskit](https://qiskit.org/), combining a parameterized quantum circuit as the generator and a classical neural network as the discriminator. The goal is to generate data that approximates a bimodal real distribution through adversarial training.
 
+Checkout paper here: [Investigating the Feasibility of QGANs for Low-Dimensional Data Generation](https://drive.google.com/file/d/1fCnHWv6bLiFXNb8V0VYkcIIpSCmyoAD9/view)
+
 ## 🌟 Project Highlights
 
 - 🧠 **Hybrid model**: Quantum generator + classical PyTorch discriminator
